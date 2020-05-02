@@ -1,8 +1,8 @@
-## FLASK / DOCKER - PRUEBA
+# FLASK / DOCKER - PRUEBA
 
 José N.
 
-# EMPEZAR
+## EMPEZAR
 
 1. Crear entorno virtual. En root, desde terminal : virtualenv venv
 2. Abrir entorno virtual. En root, desde terminal : cd venv && cd Scripts && activate.bat
